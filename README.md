@@ -1,4 +1,4 @@
-# ✠ JurassikDev34 ✠
+# JurassikDev34
 
 > *"La política sin tradición es ideología vacía; la tecnología sin libertad, mera servidumbre."*
 
@@ -50,7 +50,7 @@ Mi vida digital está al servicio de la libertad: **libertad del código, de con
 
 - 🐘 Mastodon: [@JurassikDev34@fosstodon.org](https://fosstodon.org/@JurassikDev34)
 - 📧 Correo personal: [jurassikdev34@jd34.net](mailto:jurassikdev34@jd34.net)
-- 🔐 Clave GPG pública: [jd34.net/pgp.txt](https://jd34.net/pgp.txt)
+- 🔐 Clave GPG pública: [jd34.net/gpg.txt](https://jd34.net/gpg.txt)
 
 
 - 🗳️ Foros internos del PNH (en construcción)
