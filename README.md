@@ -2,7 +2,7 @@
 
 > *"La política sin tradición es ideología vacía; la tecnología sin libertad, mera servidumbre."*
 
-🎓 **Estudiante de Bachillerato Científico** | 🏛️ **Fundador del Partido Nacional Hispanista**  
+🎓 **Estudiante** | 🏛️ **Fundador del Partido Nacional Hispanista**  
 💻 **Defensor del Software Libre**, la **Criptografía Ética** y la **Soberanía Tecnológica**  
 📚 Escritor de pensamiento crítico, filosofía política, educación y tecnología  
 📖 Católico convencido, nacionalista hispánico, tecnólogo libre
@@ -40,7 +40,7 @@ Mi vida digital está al servicio de la libertad: **libertad del código, de con
 - 🏛️ [**Partido Nacional Hispanista**](https://pnh.09072007.xyz)  
   Movimiento político que defiende la unidad de los pueblos hispánicos, la tradición católica, la economía solidaria y el software libre como herramientas de soberanía.
 
-- 📜 [**Blog personal**](https://jd34.net)  
+- 📜 [**Blog personal**](https://jurassikdev34.com)  
   Diario filosófico, reflexiones políticas, manuales técnicos y documentos de rebelión digital desde la trinchera de un joven hispano consciente.
 
 ---
@@ -49,8 +49,8 @@ Mi vida digital está al servicio de la libertad: **libertad del código, de con
 ## 📡 Contacto & Comunidad
 
 - 🐘 Mastodon: [@JurassikDev34@fosstodon.org](https://fosstodon.org/@JurassikDev34)
-- 📧 Correo personal: [jurassikdev34@jd34.net](mailto:jurassikdev34@jd34.net)
-- 🔐 Clave GPG pública: [jd34.net/gpg.txt](https://jd34.net/gpg.txt)
+- 📧 Correo personal: [jurassikdev34@jurassikdev34.com](mailto:jurassikdev34@jurassikdev34.com)
+- 🔐 Clave GPG pública: [jurassikdev34.com/gpg.txt](https://jurassikdev34.com/gpg.txt)
 
 
 - 🗳️ Foros internos del PNH (en construcción)
