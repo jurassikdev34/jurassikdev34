@@ -33,6 +33,9 @@ Mi vida digital está al servicio de la libertad: **libertad del código, de con
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JurassikDev34&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JurassikDev34&layout=compact&theme=radical)
+
+
 ---
 
 ## 🌍 Proyectos destacados
